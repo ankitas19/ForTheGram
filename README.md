@@ -4,4 +4,5 @@ I've already uploaded some of the pictures.
 ![](images/Home.png)
 
 If you select any of the pictures, you can see how it is being displayed.
+
 ![](images/animate.gif)
