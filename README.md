@@ -1,3 +1,3 @@
 # ForTheGram
-An Instagram look alike photo gallery app using React &amp; Firebase
+A user friendly webpage where one can store his pictures. This is what it looks like when you first open the webpage. I've already uploaded some of the pictures.
 ![](images/Home.png)
